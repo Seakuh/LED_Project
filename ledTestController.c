@@ -45,6 +45,8 @@ void setup() {
 
 }
 
+// Des haett ma au besser machn kenna, ging mit den if-Abfragen aber ab besten
+
 void loop()
 {
   checkIRInput();
