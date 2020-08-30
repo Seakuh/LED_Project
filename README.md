@@ -2,7 +2,7 @@
 
 ### Programm um LEDs mithilfe eines Arduino UNO anzusteuern 
 
-Schaltplan:
+Aufbau:
 
 <img src="https://github.com/Seakuh/LED_Project/blob/master/ArduinoSchaltPlanLED%2BIRSensor.jpg" width="200">
 
